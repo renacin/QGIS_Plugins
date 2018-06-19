@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/SimpleMCDA" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
